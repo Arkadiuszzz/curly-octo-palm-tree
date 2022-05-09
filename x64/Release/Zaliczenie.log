@@ -1,0 +1,45 @@
+﻿  AppManager.cpp
+  Button.cpp
+C:\Users\arekc\source\repos\Zaliczenie\Button.cpp(44,72): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\arekc\source\repos\Zaliczenie\Button.cpp(44,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\arekc\source\repos\Zaliczenie\Button.cpp(49,72): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\arekc\source\repos\Zaliczenie\Button.cpp(49,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Źródło.cpp
+  Trwa generowanie kodu
+  0 of 91 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Zaliczenie.vcxproj -> C:\Users\arekc\source\repos\Zaliczenie\x64\Release\Zaliczenie.exe

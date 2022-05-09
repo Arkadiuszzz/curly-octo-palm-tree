@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1651141642 source:/home/jan/js/C++/simpleApp/main.cpp
+	"Button.h"
+	"AppManager.h"
+
+1651143288 /home/jan/js/C++/simpleApp/include/Button.h
+	<SFML/Graphics.hpp>
+
+1650537617 source:/home/jan/js/C++/simpleApp/src/Button.cpp
+	"Button.h"
+
+1651142089 source:/home/jan/js/C++/simpleApp/src/AppManager.cpp
+	"AppManager.h"
+
+1651142705 /home/jan/js/C++/simpleApp/include/AppManager.h
+	"Button.h"
+
